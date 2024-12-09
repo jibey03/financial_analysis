@@ -1,5 +1,6 @@
 numpy
 pandas
+scipy
 yfinance
 seaborn
-matplotlib.pyplot
+matplotlib
